@@ -3,6 +3,7 @@
 ## ![](https://img.shields.io/badge/-050038?style=for-the-badge&logo=playstation&logoColor=white) Minha Saga
 
 Com imenso entusiasmo, é um prazer compartilhar com você o meu portfólio como profissional formado em Análise e Desenvolvimento de Sistemas. Nesta jornada de aprendizado e descoberta, tenho mergulhado profundamente no mundo da tecnologia, explorando suas nuances e desafios com dedicação e paixão.
+
 Atualmente, estou focado na área de Análise e Ciência de Dados, cursando Pós-Graduação em Data Analytics para aprimorar minhas habilidades e conhecimentos neste campo fascinante.
 Cada projeto que compõe este portfólio é o resultado de horas de estudo, experimentação e colaboração com colegas e mentores. Os projetos expostos aqui são fruto de um profissional que não tem receio de mostrar erros que futuramente se tornarão acertos com toda a certeza.
 
