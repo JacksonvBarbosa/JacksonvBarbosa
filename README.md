@@ -26,7 +26,7 @@ Abaixo estão alguns dos projetos que desenvolvi e que fazem parte do meu portf�
 - [`analise-vinhos-portugueses`](https://github.com/JacksonvBarbosa/Analise_qualidade_vinhos)  
   Análise exploratória dos fatores químicos que influenciam a qualidade de vinhos tintos portugueses.  
 
-- [`Analise_Filiais_de_Vendas`] ([em breve](https://github.com/JacksonvBarbosa/Analise_Filiais_de_Vendas))  
+- [`Analise_Filiais_de_Vendas`](https://github.com/JacksonvBarbosa/Analise_Filiais_de_Vendas)  
   Análise exploratória para identificar padrões e insights para otimizar estratégias de marketing, analisando o desempenho de vendas de uma rede de filiais automotivas.
 
 ### 🤖 Ciência de Dados / Machine Learning *(em construção)*
