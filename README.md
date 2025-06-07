@@ -1,84 +1,60 @@
-# ⚙️ **Olá! Sou Jackson do Santos Ventura** 💻
+# 👋 Olá, eu sou o Jackson dos Santos Ventura!
 
-## ![](https://img.shields.io/badge/-050038?style=for-the-badge&logo=playstation&logoColor=white) Minha Saga
+🎓 Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou cursando pós-graduação em **Data Analytics** pela FIAP.  
+💼 Em transição de carreira para a área de **Análise e Ciência de Dados**, busco aplicar meu conhecimento técnico para gerar **insights práticos e decisões orientadas por dados**.  
+📊 Tenho paixão por transformar dados brutos em informações valiosas por meio de análises exploratórias, visualizações e modelos preditivos.
 
-Com imenso entusiasmo, é um prazer compartilhar com você o meu portfólio como profissional formado em Análise e Desenvolvimento de Sistemas. Nesta jornada de aprendizado e descoberta, tenho mergulhado profundamente no mundo da tecnologia, explorando suas nuances e desafios com dedicação e paixão.
+---
 
-Atualmente, estou focado na área de Análise e Ciência de Dados, cursando Pós-Graduação em Data Analytics para aprimorar minhas habilidades e conhecimentos neste campo fascinante.
-Cada projeto que compõe este portfólio é o resultado de horas de estudo, experimentação e colaboração com colegas e mentores. Os projetos expostos aqui são fruto de um profissional que não tem receio de mostrar erros que futuramente se tornarão acertos com toda a certeza.
+## 🚀 Tecnologias e Ferramentas que utilizo
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JacksonvBarbosa&hide_title=true&show_icons=true&hide=stars&theme=highcontrast)
+- **Linguagens:** Python, SQL
+- **Bibliotecas:** Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
+- **Ferramentas de análise:** Excel, Google Sheets, Power BI, Jupyter Notebook, Google Colab
+- **Dashboards:** Power BI (em breve Tableau)
+- **Banco de dados:** Oracle, MySQL, SQL Server
+- **Versionamento:** Git e GitHub
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonvBarbosa&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+## 📁 Meus Projetos
 
-## **Meu NetWork**
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/JacksonvBarbosa)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/jacomigo/)
-[![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jackson-dos-santos-ventura-716290b4/)
+Abaixo estão alguns dos projetos que desenvolvi e que fazem parte do meu portfólio como analista de dados. Cada repositório contém a descrição, metodologia e os insights obtidos:
 
-## **Habilidades**
+### 🔍 Análise de Dados
 
-Olá a todos!
+- [`analise-vinhos-portugueses`](https://github.com/JacksonvBarbosa/Analise_qualidade_vinhos)  
+  Análise exploratória dos fatores químicos que influenciam a qualidade de vinhos tintos portugueses.  
 
-Compartilhando um pouco sobre o que eu já fiz em minha jornada:
+- `nome-do-projeto-2` *(em breve)*  
+  Descrição rápida de outro projeto de análise de dados...
 
-# 🔙🔚 Desenvolver Back-End: Explorando o Coração da Tecnologia 🖥️🚀
+### 🤖 Ciência de Dados / Machine Learning *(em construção)*
 
-## ☕ Habilidades Básicas em Java 🚀
+- `Tech Challenger_Ibovespa` *(em breve)*  
+  Construção de modelo preditivo para prever receita com base em variáveis de vendas.
 
-### **Olá a todos!**
+---
 
-Quero compartilhar minhas habilidades básicas em Java, uma linguagem de programação versátil e amplamente utilizada. Como entusiasta da programação, domino os fundamentos essenciais do Java e posso criar soluções simples e funcionais.
+## 🧠 Em constante evolução
 
-## 🐍 Habilidades Básicas em Python 🚀
+Atualmente estou me aprofundando nos seguintes temas:
 
-💡 Sintaxe Clara e Legível: Entendo a sintaxe simples e elegante do Python, o que me permite escrever código de maneira clara e legível, facilitando a compreensão e manutenção.
+- Modelagem preditiva com Python
+- Dashboards interativos com Power BI
+- Estatística aplicada à análise de dados
+- Visualização de dados para tomada de decisão
 
-🌟 Habilidades Básicas em JavaScript 🖥️🚀
+---
 
-Gostaria de compartilhar minhas habilidades básicas em JavaScript, uma linguagem de programação essencial para o desenvolvimento web interativo.
+## 📫 Entre em contato
 
-# 💻 Desenvolvedor Front-End com Habilidades em HTML e CSS 💡
+Você pode me encontrar no LinkedIn ou acompanhar meus repositórios por aqui:
 
-## 🌐 HTML - Estrutura do Web:
+- [LinkedIn](https://www.linkedin.com/in/jackson-dos-santos-ventura-716290b4)
+- 📬 Email: jacksonsventura@gmail.com
 
-Eu domino as bases do HTML, criando estruturas sólidas para páginas da web. Desde cabeçalhos e parágrafos até listas e formulários interativos, sei como construir a espinha dorsal de um site de forma semântica e acessível.
+---
 
-## ⚙️ CSS - Estilização Criativa:
-
-Minhas habilidades em CSS permitem-me dar vida às páginas da web. Compreendo o uso de seletores, propriedades e valores para estilizar elementos. Tenho um olho para detalhes, garantindo que a aparência seja consistente e agradável em diferentes dispositivos.
-
-## 🌟 Habilidades Básicas em Bootstrap 🎨
-
-Adquiri habilidades básicas em Bootstrap, um framework amplamente utilizado para criação de interfaces responsivas e estilizadas. Compreendo como utilizar os recursos fundamentais do Bootstrap para agilizar o processo de design e oferecer uma experiência atraente aos usuários.
-
-Se você está procurando um colaborador para projetos web, fique à vontade para entrar em contato. Estou empolgado em contribuir com meu conhecimento em HTML e CSS para criar experiências incríveis na web!
-
-## **Meus Projetos** 
-
-### **👋 Explore Meu Repositório! 👀**
-
-Olá a todos! Gostaria de convidar vocês a explorarem o meu repositório. Nele, você encontrará uma coleção de informações, projetos e recursos que compartilhei. Se você está interessado em descobrir o que fiz e estou fazendo, definitivamente vale a pena dar uma olhada!
-
-### **📁 O que você encontrará:**
-
-Projetos relacionados a minha saga de estudos.
-Documentos informativos sobre sobre os assuntos estudados.
-Projetos da Faculdade em andamento.
-
-### **🔗 Como acessar:**
-
-#### Basta clicar no link abaixo:
-
-[![Meus Repositórios](https://img.shields.io/badge/Meus%20Repositórios-E94D5F?style=for-the-badge)](https://github.com/JacksonvBarbosa?tab=repositories)
-
-Fique à vontade para explorar, clonar projetos e deixar seus comentários. Sua interação e feedback são muito bem-vindos!
-
-Agradeço por compartilhar esse espaço com vocês.
-
-Divirta-se explorando!
+> “Dados são o novo petróleo, mas insights são o combustível.”  
+> — Transformando conhecimento em impacto real.
