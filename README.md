@@ -6,14 +6,24 @@
 
 ---
 
-## 🚀 Tecnologias e Ferramentas que utilizo
+## 🛠️ Ferramentas e Tecnologias Utilizadas
 
-- **Linguagens:** Python, SQL
-- **Bibliotecas:** Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
-- **Ferramentas de análise:** Excel, Google Sheets, Power BI, Jupyter Notebook, Google Colab
-- **Dashboards:** Power BI (em breve Tableau)
-- **Banco de dados:** Oracle, MySQL, SQL Server
-- **Versionamento:** Git e GitHub
+| Categoria           | Ferramentas/Recursos                       |
+|---------------------|--------------------------------------------|
+| 💻 Linguagem         | Python, SQL, DAX                    |
+| 📊 Análise de Dados  | Pandas, NumPy, Google Sheets, Excel        |
+| 📈 Visualização      | Matplotlib, Seaborn, Power BI              |
+| 🗃️ Banco de Dados    | MySQL, SQL Service, Oracle                  |
+| 🧠 Machine Learning  | Scikit-learn                |
+| 📂 Versionamento	    | Git, GitHub                |
+| 🧰 Outros            | Jupyter Notebook, VS Code, Google colab |
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
