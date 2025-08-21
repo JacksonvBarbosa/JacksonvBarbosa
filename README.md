@@ -61,7 +61,7 @@ Atualmente estou me aprofundando nos seguintes temas:
 
 Você pode me encontrar no LinkedIn ou acompanhar meus repositórios por aqui:
 
-- [LinkedIn](https://www.linkedin.com/in/jackson-dos-santos-ventura-716290b4)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-dos-santos-ventura-716290b4)
 - 📬 Email: jacksonsventura@gmail.com
 
 ---
