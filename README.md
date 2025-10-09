@@ -33,6 +33,9 @@ Abaixo estão alguns dos projetos que desenvolvi e que fazem parte do meu portf�
 
 ### 🔍 Análise de Dados
 
+- [`analise-covid-19`](https://github.com/JacksonvBarbosa/covid-analysis)  
+  Fui contratado como Expert em Data Analytics por um grande hospital para entender o comportamento da população durante a pandemia de COVID-19 e identificar indicadores essenciais para o planejamento de futuros surtos.  
+
 - [`analise-vinhos-portugueses`](https://github.com/JacksonvBarbosa/Analise_qualidade_vinhos)  
   Análise exploratória dos fatores químicos que influenciam a qualidade de vinhos tintos portugueses.  
 
